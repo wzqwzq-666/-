@@ -4,6 +4,8 @@
 
 ## 下载
 
+- [PPTX 优化版（26.11 MB）](Body_Language_Optimized.pptx)：推荐使用，原第6、7、8页音视频完整嵌入，保留动画与教学备注。
+
 - [完整配套包（推荐，15.54 MB）](Body_Language_PPT_Full_Package.zip)：包含旧版 PPT 和原始音视频。
 - [旧版 PPT（9.77 MB）](Body_Language_Optimized.ppt)：PowerPoint 97–2003 格式。
 
